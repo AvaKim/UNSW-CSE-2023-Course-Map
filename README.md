@@ -17,3 +17,7 @@ Preview:
 
 Preview -
 <img src="https://github.com/AvaKim/UNSW-CSE-2023-Course-Map/assets/97994376/6ec500c7-5915-4cbb-aa5b-0dc1d59aaf64" width="600" height="380">
+
+
+
+Licensed under GNU General Public License v3.0
